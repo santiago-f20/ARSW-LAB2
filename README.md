@@ -85,6 +85,7 @@ Se puede apreciar que se repiten las posiciones de algunos galgos, quedando vari
 
 ![](./img/media/10.png)
 ![](./img/media/11.png)
+![](./img/media/13.png)
 
 
 ## Criterios de evaluación
